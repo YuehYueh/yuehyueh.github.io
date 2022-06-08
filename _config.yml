@@ -1,22 +1,23 @@
 # Site settings
 title: Yueh_Station
-SEOTitle: 你的博客 | Yueh
+SEOTitle: Blog | Yueh
 header-img: img/home-bg.jpg
 email: yuehweb@gmail.com
-description: ""
+description: "To Be Awesome"
 keyword: ""
 # url: "http://huangxuan.me"              # your host, for absolute URL
-# baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+# baseurl: "/Yuehblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
 weibo_username:     Yueh
-zhihu_username:     Yueh
+zhihu_username:     yue-pei-yu
 github_username:    Yueh
 #twitter_username:  Yueh
 facebook_username:  Yueh
+linkedin_username:  peiyu-yue-yueh-86377b16b
 
 
 
@@ -50,7 +51,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-#duoshuo_username: huxblog
+#duoshuo_username: Yuehblog
 # Share component is depend on Comment so we can NOT use share only.
 #duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
