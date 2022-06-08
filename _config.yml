@@ -1,5 +1,5 @@
 # Site settings
-title: Yueh Station
+title: Yueh_Station
 SEOTitle: 你的博客 | Yueh
 header-img: img/home-bg.jpg
 email: yuehweb@gmail.com
@@ -68,8 +68,8 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-huxjpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "世界那么大，多玩玩看看。"
+sidebar-avatar: /img/avatar-Yueh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
