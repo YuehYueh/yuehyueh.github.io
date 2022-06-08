@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Macos Install Issue"
+title:      "Macos Install Issue Quick Search"
 subtitle:   " \"Insatll software\""
 date:       2022-06-06 12:00:00 +0800
 author:     "Yueh"
