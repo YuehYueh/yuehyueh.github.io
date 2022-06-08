@@ -5,18 +5,18 @@ header-img: img/home-bg.jpg
 email: yuehweb@gmail.com
 description: "To Be Awesome"
 keyword: ""
-# url: "http://huangxuan.me"              # your host, for absolute URL
-# baseurl: "/Yuehblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+# url: " "              # your host, for absolute URL
+# baseurl: " "         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     Yueh
+#weibo_username:     Yueh
 zhihu_username:     yue-pei-yu
-github_username:    Yueh
+github_username:    YuehYueh
 #twitter_username:  Yueh
-facebook_username:  Yueh
+#facebook_username:  Yueh
 linkedin_username:  peiyu-yue-yueh-86377b16b
 
 
