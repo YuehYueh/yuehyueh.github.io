@@ -14,5 +14,6 @@ tags:
    >sudo spctl --master-disable           
 3. After you do, head to System Preferences > Security & Privacy. You'll find that the old “Anywhere” option has returned and is enabled.
 
-##
+---
+## End
 -Yueh 6,June,2022 In Kuala Lumpur
