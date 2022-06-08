@@ -2,7 +2,7 @@
 layout:     post
 title:      "Welcome to Yueh Blog"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2022-06-08 12:00:00
+date:       2022-06-07 12:00:00
 author:     "Yueh"
 header-img: "img/post-bg-2015.jpg"
 tags:
