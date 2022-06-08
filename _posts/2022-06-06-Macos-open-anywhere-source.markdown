@@ -4,7 +4,7 @@ title:      "Macos open anywhere source"
 subtitle:   " \"Insatll software\""
 date:       2022-06-06 12:00:00 +0800
 author:     "Yueh"
-header-img: "img/.jpg"
+#header-img: "img/.jpg"
 tags:
     - Macos
 ---
