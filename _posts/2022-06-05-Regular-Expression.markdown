@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "正则表达"
-subtitle:   " \"表达式\""
+title:      "Regular Expression，Regex、Regexp或RE 正则表达"
+subtitle:   " \"Regular Exoression\""
 date:       2022-06-05 12:00:00 +0800
 author:     "Yueh"
 #header-img: "img/.jpg"
