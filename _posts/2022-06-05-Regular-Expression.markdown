@@ -1,12 +1,16 @@
 ---
 layout:     post
-title:      "Regular Expression，Regex、Regexp或RE 正则表达"
-subtitle:   " \"Regular Exoression\""
+title:      "Regular Expression，Regex、Regexp or RE"
+subtitle:   " \"Regular Expression 正则表达\""
 date:       2022-06-05 12:00:00 +0800
 author:     "Yueh"
 #header-img: "img/.jpg"
 tags:
-    - Python
+    - Python 
+    - Regular Expression
+    - Regex
+    - Regexp
+    - RE
 ---
 
 ## 一、校验数字的表达式
