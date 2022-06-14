@@ -11,13 +11,19 @@ tags:
 ## Plot
 1. If you want to drawing a graph, the definations should be considered previous  
 2. The code  
+   
     > hold on    
+
     should be used if you want to show more details in same graph
-3. If you want mark some thing in your code, you should use 
+3. If you want mark some thing in your code, you should use  
+   
    >%  
+
    after a line of code  
-   If you want mark a paragrah of code the code 
+   If you want mark a paragrah of code the code    
+
    > %%  
+   
    should be used
 
 ---
